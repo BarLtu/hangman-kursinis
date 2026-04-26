@@ -1,0 +1,10 @@
+egg
+apple
+bacon
+cheese
+smart
+student
+university
+pear
+pineapple
+banana
