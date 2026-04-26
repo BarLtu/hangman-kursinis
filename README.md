@@ -130,7 +130,7 @@ class FileWordSource(WordSource):
 * **Testavimas:**
 Programos veikimas patikrintas naudojant unittest karkasą. Automatiniai testai užtikrina žaidimo logikos stabilumą.
 
-`![Testų rezultatai](image.png)`
+![Testų rezultatai](image.png)
 
 * **Rezultatų interpretacija:**
 Programa sėkmingai vykdo žaidimo logiką, užtikrintas klaidų valdymas (pvz., neegzistuojantis failas).
